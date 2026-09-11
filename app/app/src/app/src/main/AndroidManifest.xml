@@ -3,6 +3,7 @@
 
     <application
         android:theme="@style/AppTheme"
+        android:icon="@drawable/app_logo"
         android:label="FF ID Market"
         android:allowBackup="true">
 
