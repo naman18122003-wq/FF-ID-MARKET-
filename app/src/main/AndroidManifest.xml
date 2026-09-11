@@ -4,6 +4,7 @@
     <application
         android:theme="@style/AppTheme"
         android:label="FF ID Market"
+        android:icon="@drawable/app_logo"
         android:allowBackup="true">
 
         <activity
